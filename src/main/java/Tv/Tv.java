@@ -15,6 +15,7 @@ public class Tv {
         }
     }
 
+
     public static void On() {
         if(OnOff==true){
             System.out.println("이미 켜져있는 상태입니다.");

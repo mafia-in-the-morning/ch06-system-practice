@@ -18,6 +18,7 @@ public class Application {
         System.out.println("7. 넷플릭스 기능");
 
         int no = sc.nextInt();
+
         switch(no){
             case 1: user.On();break;
             case 2: user.Off();break;
